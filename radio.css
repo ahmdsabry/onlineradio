@@ -1,0 +1,41 @@
+* {
+    margin: 0px;
+}
+main {
+    background: red;
+    width: 360px;
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
+ header {
+    text-align: center;
+    color: seashell;
+height: 300px;
+}
+header img {
+    height: 150px;
+    margin-top: 20px;
+
+}
+header h2 {
+    margin: 20px;
+
+}
+header p {
+    font-weight: bold;
+}
+#content {
+    background: aliceblue;
+}
+#buttons   {
+    justify-content: center;
+    display: flex;
+padding-top: 20px;
+}
+#buttons img {
+    width: 45px ;
+height: 45px;
+margin: 0 15px;
+
+}
